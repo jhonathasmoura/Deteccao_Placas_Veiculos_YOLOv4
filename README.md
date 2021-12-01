@@ -1,1 +1,1 @@
-# Deteccao_Placas_Veiculos_YOLOv4
+# Detecção de Placas de Veículos com YOLOv4
