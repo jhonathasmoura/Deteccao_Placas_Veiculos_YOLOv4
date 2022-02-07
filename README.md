@@ -5,8 +5,3 @@ Sistema para detecção de placas de veículos em imagens com base na arquitetur
 <img src="https://user-images.githubusercontent.com/79773730/152886921-a5235eb2-0a0f-46c6-9dbc-4b87bba85a95.jpg" width="700px"/>
 <img src="https://user-images.githubusercontent.com/79773730/152887463-eea5adb4-a461-49cd-a756-571a6b027beb.jpg" width="700px"/>
 </div>
-
-# Detecções em vídeo
-<div align="center">
-<img src="https://user-images.githubusercontent.com/79773730/152890248-882e7854-f21b-4c6f-a275-c23352e796c6.gif" width="700px"/>
-</div>
